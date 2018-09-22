@@ -1,4 +1,4 @@
-# Intrusion-Detection-System
+# Intrusion-Detection-Systems
 This repo consists off all the code and dataset of the research paper, **"Evaluating Shallow and Deep Neural Networks for Network Intrusion Detection Systems in Cyber Security"**.
 
 
