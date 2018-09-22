@@ -9,7 +9,7 @@ Intrusion detection system (IDS) has become an essential layer in all the latest
 Intrusion detection, deep neural networks, machine learning, deep learning 
 
 ### Authors :
-**Rahul Vigneswaran K**<sup>∗</sup>, Vinayakumar R<sup>†</sup>, Soman KP<sup>†</sup> and Prabaharan Poornachandran<sup>‡</sup> 
+**Rahul Vigneswaran K**<sup>∗</sup>, [Vinayakumar R](https://github.com/vinayakumarr)<sup>†</sup>, Soman KP<sup>†</sup> and Prabaharan Poornachandran<sup>‡</sup> 
 
 **<sup>∗</sup>Department of Mechanical Engineering, Amrita Vishwa Vidyapeetham, India.** <br/> 
 <sup>†</sup>Center for Computational Engineering and Networking (CEN), Amrita School of Engineering, Coimbatore.<br/> 
