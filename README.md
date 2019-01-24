@@ -1,4 +1,4 @@
-# Intrusion-Detection-Systems
+# Intrusion Detection Systems
 This repo consists off all the code and dataset of the research paper, **"[Evaluating Shallow and Deep Neural Networks for Network Intrusion Detection Systems in Cyber Security](https://ieeexplore.ieee.org/document/8494096)"**.
 
 
@@ -61,7 +61,7 @@ Incase you use this repository, cite this paper - "[Evaluating Shallow and Deep 
 }
 ```
 
-## Issue / Want to Contribute :
+## Issue / Want to Contribute ? :
 Open a new issue or do a pull request incase your are facing any difficulty with the code base or you want to contribute to it.
 
 
