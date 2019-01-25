@@ -15,15 +15,6 @@ Intrusion detection, deep neural networks, machine learning, deep learning
 <sup>†</sup>Center for Computational Engineering and Networking (CEN), Amrita School of Engineering, Coimbatore.<br/> 
 <sup>‡</sup>Center for Cyber Security Systems and Networks, Amrita School of Engineering, Amritapuri Amrita Vishwa Vidyapeetham, India.
 
-## Contents
-- [Abstract](#abstract)
-- [Keywords](#keywords)
-- [Authors](#authors)
-- [How to run the code?](#how-to-run-the-code?)
-- [Recommended Citation](#recommended-citation)
-- [Issue](#issue-/-want-to-contribute-?)
-
-
 ## How to run the code?
 ### For **Classical Machine Learning**
 * Run `all.py` [[Link]](https://github.com/rahulvigneswaran/Intrusion-Detection-Systems/blob/master/all.py)
