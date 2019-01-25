@@ -35,7 +35,7 @@ Intrusion detection, deep neural networks, machine learning, deep learning
 
 
 ## Recommended Citation :
-Incase you use this repository, cite this paper - "[Evaluating Shallow and Deep Neural Networks for Network Intrusion Detection Systems in Cyber Security](https://ieeexplore.ieee.org/document/8494096)".
+If you use this repository in your research, cite this paper - "[Evaluating Shallow and Deep Neural Networks for Network Intrusion Detection Systems in Cyber Security](https://ieeexplore.ieee.org/document/8494096)".
 ```bib
 {
   @InProceedings{Rahul2018,
