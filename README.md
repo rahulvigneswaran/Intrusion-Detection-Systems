@@ -1,6 +1,4 @@
-# Intrusion Detection Systems 
-
-[![forthebadge made-with-python 2](https://img.shields.io/badge/Made%20with%20-Python%202.7-brightgreen.svg)](https://www.python.org/) [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/) 
+# Intrusion Detection Systems [![forthebadge made-with-python 2](https://img.shields.io/badge/Made%20with%20-Python%202.7-brightgreen.svg)](https://www.python.org/) [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/) 
 This repo consists off all the code and dataset of the research paper, **"[Evaluating Shallow and Deep Neural Networks for Network Intrusion Detection Systems in Cyber Security](https://ieeexplore.ieee.org/document/8494096)"**.
 
 
