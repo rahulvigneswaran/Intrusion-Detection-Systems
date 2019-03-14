@@ -9,7 +9,7 @@ Intrusion detection system (IDS) has become an essential layer in all the latest
 Intrusion detection, deep neural networks, machine learning, deep learning 
 
 ## Authors :
-**[Rahul Vigneswaran K](https://rahulvigneswaran.github.io)**<sup>∗</sup>, [Vinayakumar R](https://scholar.google.co.in/citations?user=oIYw0LQAAAAJ&hl=en&oi=ao)<sup>†</sup>, [Soman KP](https://scholar.google.co.in/citations?user=R_zpXOkAAAAJ&hl=en)<sup>†</sup> and [Prabaharan Poornachandran](https://scholar.google.com/citations?user=e233m6MAAAAJ&hl=en)<sup>‡</sup> 
+**[Rahul-Vigneswaran K](https://rahulvigneswaran.github.io)**<sup>∗</sup>, [Vinayakumar R](https://scholar.google.co.in/citations?user=oIYw0LQAAAAJ&hl=en&oi=ao)<sup>†</sup>, [Soman KP](https://scholar.google.co.in/citations?user=R_zpXOkAAAAJ&hl=en)<sup>†</sup> and [Prabaharan Poornachandran](https://scholar.google.com/citations?user=e233m6MAAAAJ&hl=en)<sup>‡</sup> 
 
 **<sup>∗</sup>Department of Mechanical Engineering, Amrita Vishwa Vidyapeetham, India.** <br/> 
 <sup>†</sup>Center for Computational Engineering and Networking (CEN), Amrita School of Engineering, Coimbatore.<br/> 
@@ -39,7 +39,7 @@ If you use this repository in your research, cite this paper - "[Evaluating Shal
 ```bib
 {
   @InProceedings{Rahul2018,
-  author       = {Rahul Vigneswaran, K and Vinayakumar, R and Soman, KP and Poornachandran, Prabaharan},
+  author       = {Rahul-Vigneswaran, K and Vinayakumar, R and Soman, KP and Poornachandran, Prabaharan},
   title        = {Evaluating Shallow and Deep Neural Networks for Network Intrusion Detection Systems in Cyber Security},
   booktitle    = {2018 9th International Conference on Computing, Communication and Networking Technologies (ICCCNT)},
   year         = {2018},
