@@ -42,7 +42,6 @@ If you use this repository in your research, cite the the following papers :
   
   ### Bibtex Format :
 ```bib
-{
   @article{Rahul2018EvaluatingSA,
   title={Evaluating Shallow and Deep Neural Networks for Network Intrusion Detection Systems in Cyber Security},
   author={Vigneswaran K Rahul and R. Vinayakumar and K. P. Soman and Prabaharan Poornachandran},
@@ -56,7 +55,6 @@ If you use this repository in your research, cite the the following papers :
   journal={CoRR},
   year={2019},
   volume={abs/1904.03491}
-}
 ```
 
 ## Issue / Want to Contribute ? :
