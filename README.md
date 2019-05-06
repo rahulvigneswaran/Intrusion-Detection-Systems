@@ -35,20 +35,27 @@ Intrusion detection, deep neural networks, machine learning, deep learning
 
 
 ## Recommended Citation :
-If you use this repository in your research, cite this paper - "[Evaluating Shallow and Deep Neural Networks for Network Intrusion Detection Systems in Cyber Security](https://ieeexplore.ieee.org/document/8494096)".
+If you use this repository in your research, cite the the following papers :
+
+  1. Rahul, V.K., Vinayakumar, R., Soman, K.P., & Poornachandran, P. (2018). Evaluating Shallow and Deep Neural Networks for Network Intrusion Detection Systems in Cyber Security. 2018 9th International Conference on Computing, Communication and Networking Technologies (ICCCNT), 1-6.
+  2. Rahul-Vigneswaran, K., Poornachandran, P., & Soman, K.P. (2019). A Compendium on Network and Host based Intrusion Detection Systems. CoRR, abs/1904.03491.
+  
+  ### Bibtex Format :
 ```bib
 {
-  @InProceedings{Rahul2018,
-  author       = {Rahul-Vigneswaran, K and Vinayakumar, R and Soman, KP and Poornachandran, Prabaharan},
-  title        = {Evaluating Shallow and Deep Neural Networks for Network Intrusion Detection Systems in Cyber Security},
-  booktitle    = {2018 9th International Conference on Computing, Communication and Networking Technologies (ICCCNT)},
-  year         = {2018},
-  pages        = {1--6},
-  organization = {IEEE},
-  abstract     = {Intrusion detection system (IDS) has become an essential layer in all the latest ICT system due to an urge towards cyber safety in the day-to-day world. Reasons including uncertainty in ﬁnding the types of attacks and increased the complexity of advanced cyber attacks, IDS calls for the need of integration of Deep Neural Networks (DNNs). In this paper, DNNs have been utilized to predict the attacks on Network Intrusion Detection System (N-IDS). A DNN with 0.1 rate of learning is applied and is run for 1000 number of epochs and KDDCup-’99’ dataset has been used for training and benchmarking the network. For comparison purposes, the training is done on the same dataset with several other classical machine learning algorithms and DNN of layers ranging from 1 to 5. The results were compared and concluded that a DNN of 3 layers has superior performance over all the other classical machine learning algorithms.},
-  doi          = {https://doi.org/10.1109/ICCCNT.2018.8494096},
-  keywords     = {Intrusion detection, deep neural networks, machine learning, deep learning},
-  url          = {https://github.com/rahulvigneswaran/Intrusion-Detection-Systems},
+  @article{Rahul2018EvaluatingSA,
+  title={Evaluating Shallow and Deep Neural Networks for Network Intrusion Detection Systems in Cyber Security},
+  author={Vigneswaran K Rahul and R. Vinayakumar and K. P. Soman and Prabaharan Poornachandran},
+  journal={2018 9th International Conference on Computing, Communication and Networking Technologies (ICCCNT)},
+  year={2018},
+  pages={1-6}
+
+@article{RahulVigneswaran2019ACO,
+  title={A Compendium on Network and Host based Intrusion Detection Systems},
+  author={K Rahul-Vigneswaran and Prabaharan Poornachandran and K. P. Soman},
+  journal={CoRR},
+  year={2019},
+  volume={abs/1904.03491}
 }
 ```
 
