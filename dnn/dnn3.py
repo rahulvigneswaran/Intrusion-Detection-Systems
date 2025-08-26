@@ -65,4 +65,3 @@ model.save("kddresults/dnn3layer/dnn3layer_model.hdf5")
 
 
 
-
